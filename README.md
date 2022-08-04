@@ -33,5 +33,5 @@ My name is Evgeny Shandrik. I'm Automation QA.
 <br/>
                                                   
 ## 📱 Contacts
-<a href="https://t.me/evgeny_shandrik" target="_blank"><img width="5.7%" title="Telegram" src="logo/tg.svg"></a>
-<a href="https://www.linkedin.com/in/evgeny-shandrik/" target="_blank"><img width="5%" title="LinkedIn" src="logo/linkedin.png"></a>
+<a href="https://t.me/evgeny_shandrik" target="blank"><img width="5.7%" title="Telegram" src="logo/tg.svg"></a>
+<a href="https://www.linkedin.com/in/evgeny-shandrik/" target="blank"><img width="5%" title="LinkedIn" src="logo/linkedin.png"></a>

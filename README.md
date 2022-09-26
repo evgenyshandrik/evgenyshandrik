@@ -36,5 +36,5 @@ My name is Evgeny Shandrik. I'm Automation QA.
 <a href="https://t.me/evgeny_shandrik" target="blank"><img width="5.7%" title="Telegram" src="logo/tg.svg"></a>
 <a href="https://www.linkedin.com/in/evgeny-shandrik/" target="blank"><img width="5%" title="LinkedIn" src="logo/linkedin.png"></a>
 
-## 📄 📋 📰 Article 
+## 📋 Article 
 <a href="https://habr.com/ru/post/488482/" target="blank" title="appium">Почем Appium для народа</a>

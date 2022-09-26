@@ -36,14 +36,5 @@ My name is Evgeny Shandrik. I'm Automation QA.
 <a href="https://t.me/evgeny_shandrik" target="blank"><img width="5.7%" title="Telegram" src="logo/tg.svg"></a>
 <a href="https://www.linkedin.com/in/evgeny-shandrik/" target="blank"><img width="5%" title="LinkedIn" src="logo/linkedin.png"></a>
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+## 📄 📋 📰 Article 
+<a href="https://habr.com/ru/post/488482/" target="blank" title="appium">Почем Appium для народа</a>
